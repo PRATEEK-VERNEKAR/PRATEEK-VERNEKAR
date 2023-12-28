@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm PRATEEK VERNEKAR</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3grnlRtaNHPdKxZ58WhsO4&ust=1703857274089000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID03I6hsoMDFQAAAAAdAAAAABAD" alt="Coding" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-vernekar&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-vernekar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek-vernekar" alt="prateek-vernekar" /></a> </p>
