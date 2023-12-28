@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRATEEK VERNEKAR</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek-vernekar&show_icons=true&locale=en&layout=compact" alt="prateek-vernekar" />
+<img align="center" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-vernekar&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-vernekar" /> </p>
 
