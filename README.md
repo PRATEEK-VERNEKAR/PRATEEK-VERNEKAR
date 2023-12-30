@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRATEEK VERNEKAR</h1>
+<h3 align="center">SIH 2023 Winner Under ISRO</h3>
 <h3 align="center">A passionate WEB and ML developer from India</h3>
+<h3 align="center">CodeRIT Core</h3>
 
 
 
