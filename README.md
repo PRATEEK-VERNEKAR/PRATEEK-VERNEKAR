@@ -31,9 +31,8 @@
 
 
 
-<!--- stats & Trophy (start) -->
+<!--- stats & Trophy (start)
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -50,34 +49,100 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
+ stats (end) -->
 
-<!--- trophy (start) -->
+<!--- trophy (start) 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=PRATEEK-VERNEKAR&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
+ trophy (start) -->
 
 
 </p>        
 <!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
+
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Programming Languages</h2></summary>
+  </ul>
+</div>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-darkblue.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/c-darkblue.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-darkblue.svg?style=for-the-badge&logo=python&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-darkblue.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Web Development</h2></summary>
+  </ul>
+</div>
+
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![ExpressJS](https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![ReactJS](https://img.shields.io/badge/react-%234ea94b.svg?style=for-the-badge&logo=react&logoColor=white) 
+![ReactJS](https://img.shields.io/badge/postman-%234ea94b.svg?style=for-the-badge&logo=postman&logoColor=white) 
+
+![NPM](https://img.shields.io/badge/NPM-6DA55F.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Machine Learning</h2></summary>
+  </ul>
+</div>
+
+![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/tensorflow-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-%23000000.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Devops</h2></summary>
+  </ul>
+</div>
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%230db7ed.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
+
+<!--h1 without bottom border
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+-->
+<!--tech stack icons
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,express,firebase,github,html,java,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
-
+-->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -104,6 +169,8 @@
 [![](https://visitcount.itsvg.in/api?id=PRATEEK-VERNEKAR&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
+
+
 
 
 <!--horizontal divider(gradiant)-->
