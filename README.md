@@ -134,6 +134,8 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-blue.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-brown.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-random.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 
 
